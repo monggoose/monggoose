@@ -16,3 +16,15 @@ Here are some ideas to get you started:
 -->
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
+@@           Coverage Diff           @@
+##           master     #347   +/-   ##
+=======================================
+  Coverage   94.28%   94.28%           
+=======================================
+  Files          16       16           
+  Lines         490      490           
+  Branches      130      130           
+=======================================
+  Hits          462      462           
+  Misses         24       24           
+  Partials        4        4     
